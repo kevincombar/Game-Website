@@ -1,0 +1,23 @@
+{
+  "name": "game-website",
+  "version": "1.0.0",
+  "description": "<a href=\"https://kevin-combar.fr/\"><img src=\"https://github.com/kevincombar/kevincombar/blob/main/img/hand_v.png\" align=\"right\" height=\"275\" /></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevincombar/Game-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevincombar/Game-Website/issues"
+  },
+  "homepage": "https://github.com/kevincombar/Game-Website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
